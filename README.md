@@ -31,7 +31,7 @@ El cliente se conecta al servidor para enviar y recibir mensajes. Se pueden ejec
 
 ## Comandos del Servidor
  LOGOUT: Cierra el servidor y desconecta a todos los clientes.
- 
+
 ## Comandos del Cliente
  DESTINATARIO>MENSAJE: Envía un mensaje a un cliente específico.
 
@@ -44,7 +44,6 @@ El cliente se conecta al servidor para enviar y recibir mensajes. Se pueden ejec
 
 
 
-## Authors
+## Autor
 
-- [@Gaston Murua](ttps://github.com/JGastonMurua)
-
+- [Gaston Murua](https://github.com/JGastonMurua)
