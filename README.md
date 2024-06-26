@@ -4,7 +4,7 @@ El proyecto es de una sala de chat sencilla utilizando sockets en Python,con dos
 
 ## Requisitos
 
-- Python 
+- Python 3.x
 
 ## Instrucciones
 
@@ -16,7 +16,7 @@ El servidor maneja las conexiones de los clientes y gestiona la comunicación en
 
     Abre una terminal.
     Navega al directorio donde se encuentra `server.py`.
-    Ejecuta el servidor con el siguiente comando: `python server.py`
+    Ejecuta el servidor con el siguiente comando: `python server.py`.
 
 
 ### 2. Iniciar el Cliente
@@ -28,8 +28,10 @@ El cliente se conecta al servidor para enviar y recibir mensajes. Se pueden ejec
     Ejecuta el cliente con el siguiente comando, reemplazando NOMBRE con el nombre del cliente: `python cliente.py NOMBRE`.
 
 # Comandos
+
 ## Comandos del Servidor
  LOGOUT: Cierra el servidor y desconecta a todos los clientes.
+ 
 ## Comandos del Cliente
  DESTINATARIO>MENSAJE: Envía un mensaje a un cliente específico.
 
@@ -44,5 +46,5 @@ El cliente se conecta al servidor para enviar y recibir mensajes. Se pueden ejec
 
 ## Authors
 
-- [@Gaston Murua]  (ttps://github.com/JGastonMurua)
+- [@Gaston Murua](ttps://github.com/JGastonMurua)
 
